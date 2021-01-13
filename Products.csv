@@ -1,0 +1,21 @@
+﻿ID,StockID,Name,UnitPrice,Discount,BrandName,QuantityStocked,QuantityLeft,StockedDate,EmptyDate,CategoryID1
+1,1,Newborn Baby Grey Bear Romper Set (3pcs),43,33,Zalora,20,5,12/11/2021,,2
+2,2,Sleeveless Print Dress,55.9,0,Zalora,6,5,12/11/2021,,2
+3,3,Monster Kids' Hoodie,55,47,Zalora,2,2,1/12/2020,,2
+4,4,Printed Beach Dress,25.9,0,Zalora,5,4,13/1/2020,,2
+5,5,Organic Cotton-Blend Cardigan,39.9,50,Zalora,11,10,12/11/2021,,2
+6,6,ADIDAS TRAINING MAT,80,0,Adidas,3,0,1/12/2020,8/12/2020,3
+7,7,ADIDAS ADJUSTABLE ANKLE WEIGHTS,70,24,Adidas,17,6,13/1/2020,,3
+8,8,ADIDAS 8KG DUAL GRIP MEDICINE BALL,220,0,Adidas,5,4,12/11/2021,,3
+9,9,ADIDAS POWER TUBE,80,0,Adidas,13,4,13/1/2020,,3
+10,10,ADIDAS ANKLE / WRIST WEIGHTS,50,0,Adidas,18,10,1/1/2021,,3
+11,11,Hush Puppies BENMORE TOEPOST In Black,139,0,Hush Puppies,19,10,1/12/2020,,4
+12,12,Hush Puppies Kaplana In Brown,139,0,Hush Puppies,10,0,1/1/2021,5/1/2020,4
+13,13,Hush Puppies TRANSIT In Black,110,0,Hush Puppies,4,3,12/11/2021,,4
+14,14,Hush Puppies Puli Backstrap In Black,149,0,Hush Puppies,8,2,13/1/2020,,4
+15,15,Hush Puppies Volt In Dark Grey,169,0,Hush Puppies,6,5,1/12/2020,,4
+16,16,Hanz de Fuko Claymation,30,0,Hanz de Fuko,15,12,1/1/2021,,5
+17,17,Deluxe Mini Kit,21,0,Hanz de Fuko,15,6,12/11/2021,,5
+18,18,Hanz de Fuko Claymation and Modify Pomade Set,58,0,Hanz de Fuko,17,5,1/12/2020,,5
+19,19,Hanz de Fuko Claymation and Hybridized Wax Set,58,0,Hanz de Fuko,6,3,13/1/2020,,5
+20,20,Hanz de Fuko Anti-Fade Hair Care and Claymation,84,0,Hanz de Fuko,3,1,12/11/2021,,5
